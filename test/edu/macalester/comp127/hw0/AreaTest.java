@@ -1,7 +1,7 @@
 package edu.macalester.comp127.hw0;
 
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 import static org.junit.Assert.*;
 
 /**
